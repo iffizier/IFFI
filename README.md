@@ -1,2 +1,2 @@
-# IFFA
+# IFFI
 Internet Freedom For Indonesia
