@@ -1,0 +1,106 @@
+#Reddit
+151.101.1.140 www.reddit.com
+151.101.65.140 www.reddit.com
+151.101.129.140 www.reddit.com
+151.101.193.140 www.reddit.com
+151.101.1.140 reddit.com
+151.101.65.140 reddit.com
+151.101.129.140 reddit.com
+151.101.193.140 reddit.com
+151.101.1.140 old.reddit.com
+151.101.193.140 old.reddit.com
+199.232.5.140 old.reddit.com
+151.101.1.140 new.reddit.com
+151.101.1.140 amp.reddit.com
+199.232.5.140 amp.reddit.com
+151.101.193.140 fc.reddit.com
+151.101.193.140 md.reddit.com
+151.101.193.140 me.reddit.com
+151.101.193.140 sendbird.reddit.com
+151.101.193.140 origin.reddit.com
+151.101.1.140 np.reddit.com
+151.101.1.140 bt.reddit.com
+151.101.1.140 m.reddit.com
+151.101.1.140 nm.reddit.com
+151.101.1.140 api.reddit.com
+199.232.5.140 api.reddit.com
+151.101.1.140 e.reddit.com
+151.101.1.140 about.reddit.com
+199.232.5.140 about.reddit.com
+52.5.206.7 out.reddit.com
+199.232.5.140 out.reddit.com
+151.101.1.140 st.reddit.com
+151.101.1.140 e.reddit.com
+151.101.1.140 ssl.reddit.com
+199.232.5.140 ssl.reddit.com
+151.101.1.140 oauth.reddit.com
+199.232.5.140 oauth.reddit.com
+52.44.97.90 alb.reddit.com
+3.225.77.184 alb.reddit.com
+3.223.182.220 alb.reddit.com
+34.233.22.190 alb.reddit.com
+151.101.129.140 gateway.reddit.com
+199.232.5.140 gateway.reddit.com
+151.101.1.140 events.reddit.com
+199.232.5.140 events.reddit.com
+151.101.129.140 i.redditmedia.com
+52.34.230.181 www.reddithelp.com
+151.101.65.140 g.redditmedia.com
+151.101.65.140 a.thumbs.redditmedia.com
+151.101.1.140 redditgifts.com
+151.101.129.140 v.redd.it
+151.101.1.140 b.thumbs.redditmedia.com
+151.101.197.140 s.redditmedia.com
+199.232.5.140 out.reddit.com
+
+#Imgur
+151.101.60.193 imgur.com
+151.101.36.193 m.imgur.com
+107.21.3.138 apidocs.imgur.com
+151.101.36.193 api.imgur.com
+104.16.53.111 help.imgur.com
+151.101.36.193 blog.imgur.com
+52.23.39.2 browserevents.imgur.com
+151.101.36.193 p.imgur.com
+151.101.36.193 s.imgur.com
+151.101.36.193 store.imgur.com
+151.101.36.193 i.imgur.com
+
+#Mangasites
+185.4.227.114 mangahere.com
+185.4.227.114 www.mangahere.com
+185.4.227.116 mangafox.me
+185.4.227.116 www.mangafox.me
+104.27.65.116 mangakakalot.com
+104.27.65.116 www.mangakakalot.com
+104.28.18.80 mangaku.web.id
+
+#Yify
+104.31.16.3 yts.ag
+104.31.17.3 yts.ag
+104.27.214.28 yts.am
+46.166.184.115 yts.am
+109.236.84.193 img.yts.am
+212.8.242.150 img.yts.am
+104.27.216.4 yts.lt
+104.27.217.4 yts.lt
+109.236.84.193 img.yts.lt
+212.8.242.150 img.yts.lt
+104.24.8.103 www.yifysubtitles.com
+104.24.8.103 yifysubtitles.com
+
+#Vimeo
+151.101.0.217 vimeo.com
+151.101.64.217 vimeo.com
+151.101.128.217 vimeo.com
+151.101.192.217 vimeo.com
+151.101.0.217 www.vimeo.com
+151.101.64.217 www.vimeo.com
+151.101.128.217 www.vimeo.com
+151.101.192.217 www.vimeo.com
+151.101.0.217 api.vimeo.com
+151.101.64.217 api.vimeo.com
+151.101.128.217 api.vimeo.com
+151.101.192.217 api.vimeo.com
+199.232.6.109 f.vimeocdn.com
+199.232.4.217 player.vimeo.com
