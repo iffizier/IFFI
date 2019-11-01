@@ -85,4 +85,44 @@
 8.253.81.35 cdn3-l3-cdn.xvideos.com
 208.111.149.134 img100.xvideos.com
 
-#
+#Game
+104.27.73.8 f95zone.com
+104.27.73.8 www.f95zone.com
+104.27.72.8 f95zone.to 
+104.27.73.8 www.f95zone.to
+104.25.113.103 f95zone.to
+104.25.113.103 www.f95zone.to
+104.25.114.103 f95zone.to
+104.25.114.103 www.f95zone.to
+104.27.73.8 attachments.f95zone.to
+104.25.113.103 attachments.f95zone.to
+104.25.114.103 attachments.f95zone.to
+104.25.90.15 loverslab.com www.loverslab.com
+104.25.91.15 loverslab.com www.loverslab.com
+209.133.194.84 thumbs2.sexysims2.com
+209.133.194.86 files.sexysims2.com
+104.28.15.98 erogedownload.com
+104.28.15.98 www.erogedownload.com
+
+#Imageboard
+5.79.80.150 rule34.paheal.net
+178.21.23.134 rule34.xxx
+178.21.23.134 www.rule34.xxx
+89.233.106.186 img.rule34.xxx
+109.201.130.57 imagefap.com
+109.201.130.57 www.imagefap.com
+64.237.54.186 cfake.com
+64.237.54.186 www.cfake.com
+64.237.54.188 cfake.com
+64.237.54.188 www.cfake.com
+
+#Hmanga
+104.25.23.115 hentai.cafe
+104.25.24.115 cdn.hentai.cafe
+198.16.106.42 hh.cx
+104.20.208.29 fakku.net
+104.20.208.29 www.fakku.net
+104.20.208.29 t.fakku.net
+23.227.38.64 store.fakku.net
+104.27.163.237 tsumino.com
+104.27.163.237 www.tsumino.com
