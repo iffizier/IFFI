@@ -127,3 +127,18 @@
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
 104.27.163.237 content.tsumino.com
+
+#Hanime
+104.24.30.59 hanime.tv
+104.24.30.59 www.hanime.tv
+104.24.30.59 uploads.hanime.tv
+104.24.30.59 ark.hanime.tv
+104.24.30.59 cdn.hanime.tv
+104.24.30.59 search.hanime.tv
+104.24.30.59 oberon.hanime.tv
+104.24.30.59 m.hanime.tv
+104.24.30.59 tapi.hanime.tv
+104.24.30.59 htv3.hanime.tv
+104.24.30.59 members.hanime.tv
+151.101.65.195 player.hanime.tv
+104.28.8.205 search.freeanimehentai.net
