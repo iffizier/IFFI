@@ -126,3 +126,4 @@
 23.227.38.64 store.fakku.net
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
+104.27.163.237 content.tsumino.com
