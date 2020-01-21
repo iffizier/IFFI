@@ -127,6 +127,9 @@
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
 104.27.163.237 content.tsumino.com
+104.31.86.132 asmhentai.com
+104.31.86.132 www.asmhentai.com
+104.31.86.132 images.asmhentai.com
 
 #Hanime
 104.24.30.59 hanime.tv
