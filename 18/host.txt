@@ -97,6 +97,7 @@
 104.27.73.8 attachments.f95zone.to
 104.25.113.103 attachments.f95zone.to
 104.25.114.103 attachments.f95zone.to
+104.25.113.103 static.f95zone.to
 104.25.90.15 loverslab.com www.loverslab.com
 104.25.91.15 loverslab.com www.loverslab.com
 209.133.194.84 thumbs2.sexysims2.com
@@ -130,6 +131,8 @@
 104.31.86.132 asmhentai.com
 104.31.86.132 www.asmhentai.com
 104.31.86.132 images.asmhentai.com
+104.25.51.19 8muses.com
+104.25.51.19 www.8muses.com
 
 #Hanime
 104.24.30.59 hanime.tv
