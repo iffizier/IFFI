@@ -148,3 +148,9 @@
 104.24.30.59 members.hanime.tv
 151.101.65.195 player.hanime.tv
 104.28.8.205 search.freeanimehentai.net
+
+#Pornhub
+31.192.120.36 pornhub.com
+31.192.120.36 www.pornhub.com
+216.189.151.222 savido.net
+216.189.151.222 www.savido.net
