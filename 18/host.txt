@@ -1,4 +1,4 @@
-#Hitomi.la
+#hitomi.la
 88.80.20.11 hitomi.la
 88.80.20.11 www.hitomi.la
 79.124.59.206 hitomi.la
@@ -23,7 +23,7 @@
 23.237.36.202 tn.hitomi.la
 192.240.120.10 tn.hitomi.la
 
-#Sankakucomplex
+#sankakucomplex.com
 208.100.24.252 sankakucomplex.com
 104.25.220.15 sankakucomplex.com
 208.100.24.252 www.sankakucomplex.com
@@ -55,7 +55,7 @@
 208.100.24.254 is.sankakucomplex.com
 104.25.221.15 is.sankakucomplex.com
 
-#Hentai2read
+#hentai2read.com
 104.24.16.12 hentai2read.com
 104.24.16.12 www.hentai2read.com
 104.24.17.12 hentai2read.com
@@ -67,74 +67,94 @@
 104.24.16.12 i3.hentai2read.com
 104.24.17.12 i3.hentai2read.com
 
-#Xvideos
-185.88.181.9 www.xvideos.com
-185.88.181.9 xvideos.com
-141.0.174.44 www.xvideos.com
-141.0.174.44 xvideod.com
-209.197.3.84 img-hw.xvideos.com
-185.88.181.5 flashservice.xvideos.com
-68.232.34.19 img-egc.xvideos.com
+#xvideos.com
 209.197.3.84 static-hw.xvideos.com
-141.0.168.72 info.xvideos.com
+209.197.3.84 img-hw.xvideos.com
+185.88.181.7 info.xvideos.com
+185.88.181.7 static-l1.xvideos.com
+185.88.181.7 static-l2.xvideos.com
+185.88.181.4 xvideos.com
+68.232.34.19 img-egc.xvideos.com
+185.88.181.4 www.xvideos.com
 185.88.181.4 upload.xvideos.com
-205.185.208.170 content.xvideos.com
+185.88.181.4 static-l16.xvideos.com
+185.88.181.4 flashservice.xvideos.com
+8.252.191.251 static-l3.xvideos.com
+152.195.13.91 static-egc.xvideos-cdn.com
+69.55.53.169 static-ss.xvideos-cdn.com
+8.247.111.123 hls4-l3.xvideos-cdn.com
+152.195.13.88 vid-egc.xvideos-cdn.com
+185.180.13.220 cdn77-pic.xvideos-cdn.com
+152.195.13.91 img-egc.xvideos-cdn.com
+152.195.13.91 img-hw.xvideos-cdn.com
+8.253.209.251 img-l3.xvideos-cdn.com
+8.240.44.251 static-l3.xvideos-cdn.com
+209.197.3.84 static-hw.xvideos-cdn.com
 178.79.244.53 porn1-im-7688ec00-10333156-hlsinths.x.xvideos.com
-185.88.181.6 img-13.xvideos.com
-185.88.181.5 img-13.xvideos.com
-8.253.81.35 cdn3-l3-cdn.xvideos.com
-208.111.149.134 img100.xvideos.com
 
-#Game
-104.27.73.8 f95zone.com
-104.27.73.8 www.f95zone.com
-104.27.72.8 f95zone.to 
-104.27.73.8 www.f95zone.to
-104.25.113.103 f95zone.to
-104.25.113.103 www.f95zone.to
+#f95zone.to
 104.25.114.103 f95zone.to
 104.25.114.103 www.f95zone.to
-104.27.73.8 attachments.f95zone.to
-104.25.113.103 attachments.f95zone.to
 104.25.114.103 attachments.f95zone.to
-104.25.113.103 static.f95zone.to
-104.25.90.15 loverslab.com www.loverslab.com
-104.25.91.15 loverslab.com www.loverslab.com
+104.25.114.103 static.f95zone.to
+
+#loverslab.com
+104.25.90.15 loverslab.com
+104.25.90.15 www.loverslab.com
+
+#sexysims2.com
 209.133.194.84 thumbs2.sexysims2.com
 209.133.194.86 files.sexysims2.com
+
+#erogedownload.com
 104.28.15.98 erogedownload.com
 104.28.15.98 www.erogedownload.com
 
-#Imageboard
+#paheal.net
 5.79.80.150 rule34.paheal.net
+208.97.151.195 paheal.net
+95.211.136.161 olive.paheal.net
+
+#rule34.xxx
 178.21.23.134 rule34.xxx
 178.21.23.134 www.rule34.xxx
 89.233.106.186 img.rule34.xxx
+
+#imagefap.com
 109.201.130.57 imagefap.com
 109.201.130.57 www.imagefap.com
+8.252.98.251 cdn.imagefap.com
+
+#cfake
 64.237.54.186 cfake.com
 64.237.54.186 www.cfake.com
-64.237.54.188 cfake.com
-64.237.54.188 www.cfake.com
 
-#Hmanga
+#hentai.cafe
 104.25.23.115 hentai.cafe
 104.25.24.115 cdn.hentai.cafe
 198.16.106.42 hh.cx
+
+#fakku.net
 104.20.208.29 fakku.net
 104.20.208.29 www.fakku.net
 104.20.208.29 t.fakku.net
 23.227.38.64 store.fakku.net
+
+#tsumino.com
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
 104.27.163.237 content.tsumino.com
+
+#asmhentai
 104.31.86.132 asmhentai.com
 104.31.86.132 www.asmhentai.com
 104.31.86.132 images.asmhentai.com
+
+#8muses.info
 104.25.51.19 8muses.com
 104.25.51.19 www.8muses.com
 
-#Hanime
+#hanime.tv
 104.24.30.59 hanime.tv
 104.24.30.59 www.hanime.tv
 104.24.30.59 uploads.hanime.tv
@@ -148,9 +168,116 @@
 104.24.30.59 members.hanime.tv
 151.101.65.195 player.hanime.tv
 104.28.8.205 search.freeanimehentai.net
+104.28.8.124 cdn.freeanimehentai.net
+104.28.9.124 i2.freeanimehentai.net
+104.28.24.161 search.htv-services.com
+104.28.24.161 uploader.htv-services.com
 
-#Pornhub
+#pornhub.com
 31.192.120.36 pornhub.com
 31.192.120.36 www.pornhub.com
+
+#savido.net
 216.189.151.222 savido.net
 216.189.151.222 www.savido.net
+
+#donmai.us
+104.20.134.45 donmai.us
+104.20.134.45 www.donmai.us
+104.20.134.45 danbooru.donmai.us
+104.20.135.45 raikou1.donmai.us
+104.20.134.45 raikou2.donmai.us
+104.20.134.45 raikou3.donmai.us
+104.20.134.45 raikou4.donmai.us
+104.20.134.45 safebooru.donmai.us
+147.135.4.93 kagamihara.donmai.us
+147.135.10.29 shima.donmai.us
+
+#nhentai.net
+104.31.81.98 nhentai.net
+104.31.81.98 www.nhentai.net
+141.101.120.54 static.nhentai.net
+185.165.243.200 t.nhentai.net
+185.165.243.200 i.nhentai.net
+185.165.243.200 webseed.nhentai.net
+
+#gelbooru.com
+67.202.114.141 gelbooru.com
+67.202.114.141 www.gelbooru.com
+212.8.240.5 img2.gelbooru.com
+212.8.240.5 simg3.gelbooru.com
+
+#e-hentai.org
+104.24.255.11 e-hentai.org
+104.24.255.11 www.e-hentai.org
+94.100.18.243 forums.e-hentai.org
+94.100.24.81 upload.e-hentai.org
+104.237.196.116 g.e-hentai.org
+81.171.20.5 api.e-hentai.org
+104.20.135.21 r.e-hentai.org
+104.20.135.21 lofi.e-hentai.org
+
+#javlibrary.com
+104.18.62.228 javlibrary.com
+104.18.62.228 www.javlibrary.com
+
+#yande.re
+188.165.205.120 yande.re
+51.77.247.63 files.yande.re
+188.165.205.120 assets.yande.re
+
+#konachan.com
+5.178.68.69 konachan.com
+
+#newgrounds.com
+51.79.77.157 newgrounds.com
+51.79.77.157 www.newgrounds.com
+
+#anime-sharing.com
+104.25.23.115 anime-sharing.com
+104.25.23.115 www.anime-sharing.com
+104.25.23.115 koe.anime-sharing.com
+198.27.125.17 wiki.anime-sharing.com
+
+#dlsite.com
+52.192.120.153 dlsite.com
+151.101.2.217 www.dlsite.com
+151.101.2.217 ssl.dlsite.com
+54.238.167.141 it.dlsite.com
+52.193.53.138 blog.dlsite.com
+52.199.95.20 login.dlsite.com
+52.197.33.8 play.dlsite.com
+54.249.59.55 ch.dlsite.com
+
+#doujin-moe.us
+184.168.221.18 doujin-moe.us
+184.168.221.18 www.doujin-moe.us
+
+#imgchili
+104.24.113.61 imgchili.net
+104.24.113.61 www.imgchili.net
+
+#luscious.net
+185.93.1.7 luscious.net
+185.93.1.7 www.luscious.net
+104.25.247.113 members.luscious.net
+185.93.0.18 assets.luscious.net
+185.152.66.6 cdna.luscious.net
+185.152.66.6 cdni.luscious.net
+185.93.0.18 cdnio.luscious.net
+195.181.162.3 cdnvo.luscious.net
+163.171.129.140 trial.dlsite.com
+
+#poringa.com
+104.25.113.17 poringa.net
+104.25.113.17 www.poringa.net
+104.25.113.17 img-1.poringa.net
+104.25.113.17 img-2.poringa.net
+104.25.113.17 img-5.poringa.net
+104.25.113.17 img-7.poringa.net
+104.25.113.17 img-8.poringa.net
+104.25.113.17 static.poringa.net
+
+#nyaa.si
+185.221.200.12 sukebei.nyaa.si
+
