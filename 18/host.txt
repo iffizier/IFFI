@@ -111,7 +111,7 @@
 104.28.15.98 www.erogedownload.com
 
 #paheal.net
-5.79.80.150 rule34.paheal.net
+104.200.22.130 rule34.paheal.net
 208.97.151.195 paheal.net
 95.211.136.161 olive.paheal.net
 
@@ -237,7 +237,7 @@
 104.25.23.115 anime-sharing.com
 104.25.23.115 www.anime-sharing.com
 104.25.23.115 koe.anime-sharing.com
-198.27.125.17 wiki.anime-sharing.com
+104.26.10.3 wiki.anime-sharing.com
 
 #dlsite.com
 52.192.120.153 dlsite.com
@@ -253,7 +253,7 @@
 184.168.221.18 doujin-moe.us
 184.168.221.18 www.doujin-moe.us
 
-#imgchili
+#imgchili.net
 104.24.113.61 imgchili.net
 104.24.113.61 www.imgchili.net
 
@@ -281,3 +281,29 @@
 #nyaa.si
 185.221.200.12 sukebei.nyaa.si
 
+#babefilter.net
+158.69.116.55 babefilter.net
+158.69.116.55 www.babefilter.net
+
+#akiba-online.com
+89.248.169.70 akiba-online.com
+89.248.169.70 www.akiba-online.com
+
+#javsubtitle.co
+104.27.144.19 javsubtitle.co
+104.27.145.19 www.javsubtitle.co
+
+#dlsite.com
+52.192.120.153 dlsite.com
+151.101.2.217 www.dlsite.com
+151.101.2.217 ssl.dlsite.com
+54.238.167.141 it.dlsite.com
+52.193.53.138 blog.dlsite.com
+52.199.95.20 login.dlsite.com
+52.197.33.8 play.dlsite.com
+54.249.59.55 ch.dlsite.com
+163.171.129.140 trial.dlsite.com
+
+#cosplayjav.pl
+104.25.59.110 cosplayjav.pl
+104.25.59.110 www.cosplayjav.pl
