@@ -307,3 +307,35 @@
 #cosplayjav.pl
 104.25.59.110 cosplayjav.pl
 104.25.59.110 www.cosplayjav.pl
+
+#kpopdeepfakes.net
+149.56.27.151 kpopdeepfakes.net
+149.56.27.151 www.kpopdeepfakes.net
+
+#adultdeepfakes.com
+5.45.78.44 adultdeepfakes.com
+5.45.78.44 www.adultdeepfakes.com
+5.45.78.44 ns1.adultdeepfakes.com
+5.45.78.44 ns2.adultdeepfakes.com
+5.45.78.44 mail.adultdeepfakes.com
+5.45.79.248 api.adultdeepfakes.com
+
+#kisscosplay.moe
+104.31.88.39 kisscosplay.moe
+104.31.88.39 www.kisscosplay.moe
+104.31.88.39 cdn.kisscosplay.moe
+104.31.88.39 cdn2.kisscosplay.moe
+104.31.88.39 cdn3.kisscosplay.moe
+
+#kissjav.com
+82.118.242.43 kissjav.com
+82.118.242.43 www.kissjav.com
+23.237.108.34 media7.kissjav.com
+23.237.106.26 media8.kissjav.com
+23.237.60.90 media9.kissjav.com
+
+#pururin.io
+104.27.174.71 pururin.io
+104.27.174.71 www.pururin.io
+104.24.18.118 cdn.pururin.io
+
