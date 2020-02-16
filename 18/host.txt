@@ -339,3 +339,5 @@
 104.27.174.71 www.pururin.io
 104.24.18.118 cdn.pururin.io
 
+#cosplay.jav.pw
+104.28.26.38 cosplay.jav.pw
