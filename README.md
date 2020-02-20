@@ -1,6 +1,8 @@
 # IFFI
 Internet Freedom For Indonesia
+
 Bypass situs yang diblokir dengan mengubah host file (host situs [18+](https://raw.githubusercontent.com/palmsugar26/IFFI/master/18/host.txt))
+
 Adaway support
 
 # Additional
