@@ -1,0 +1,13 @@
+127.0.0.1 windowsupdate.microsoft.com
+127.0.0.1 www.windowsupdate.microsoft.com
+127.0.0.1 v4.windowsupdate.microsoft.com
+127.0.0.1 www.v4.windowsupdate.microsoft.com
+127.0.0.1 windowsupdate.com
+127.0.0.1 www.windowsupdate.com
+127.0.0.1 download.windowsupdate.com
+127.0.0.1 www.download.windowsupdate.com
+127.0.0.1 v4.windowsupdate.com
+127.0.0.1 www.v4.windowsupdate.com
+127.0.0.1 windowsupdate.microsoft.nsatc.net
+127.0.0.1 v4windowsupdate.microsoft.nsatc.net
+127.0.0.1 wustat.windows.com
