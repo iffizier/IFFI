@@ -1,3 +1,4 @@
+#block_idm_fakeserial
 127.0.0.1 tonec.com
 127.0.0.1 www.tonec.com
 127.0.0.1 registeridm.com
