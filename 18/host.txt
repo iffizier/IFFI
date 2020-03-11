@@ -103,6 +103,7 @@
 #gifsauce.com
 104.27.190.253 gifsauce.com
 104.27.190.253 www.gifsauce.com
+104.27.190.253 i.gifsauce.com
 
 #hanime.tv
 104.24.30.59 hanime.tv
