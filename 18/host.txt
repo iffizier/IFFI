@@ -292,6 +292,7 @@
 208.100.47.78 img4.sankakucomplex.com
 208.100.24.254 is.sankakucomplex.com
 104.25.221.15 is.sankakucomplex.com
+208.100.24.254 beta.sankakucomplex.com
 
 #savido.net
 216.189.151.222 savido.net
