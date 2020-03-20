@@ -183,6 +183,10 @@
 104.27.144.19 javsubtitle.co
 104.27.145.19 www.javsubtitle.co
 
+#karayou.com
+104.31.3.175 karayou.com
+104.31.3.175 www.karayou.com
+
 #kisscosplay.moe
 104.31.88.39 kisscosplay.moe
 104.31.88.39 www.kisscosplay.moe
@@ -256,6 +260,10 @@
 104.27.174.71 pururin.io
 104.27.174.71 www.pururin.io
 104.24.18.118 cdn.pururin.io
+
+#redgifs.com
+13.226.182.4 redgifs.com
+13.226.182.4 www.redgifs.com
 
 #rule34.xxx
 178.21.23.134 rule34.xxx
