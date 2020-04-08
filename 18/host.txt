@@ -105,6 +105,11 @@
 104.27.190.253 www.gifsauce.com
 104.27.190.253 i.gifsauce.com
 
+#gojav.xyz
+104.31.79.158 gojav.xyz
+104.31.79.158 www.gojav.xyz
+104.27.129.45 open.gojav.xyz
+
 #hanime.tv
 104.24.30.59 hanime.tv
 104.24.30.59 www.hanime.tv
@@ -141,6 +146,28 @@
 104.25.24.115 cdn.hentai.cafe
 198.16.106.42 hh.cx
 
+#hentai-cosplay.com
+104.24.126.173 hentai-cosplay.com
+104.24.126.173 www.hentai-cosplay.com
+104.24.126.173 static.hentai-cosplay.com
+104.24.126.173 static2.hentai-cosplay.com
+104.24.122.113 static4.porn-image-xxx.com
+
+#hentai-foundry.com
+142.44.146.192 www.hentai-foundry.com
+142.44.146.192 hentai-foundry.com
+142.44.146.192 forums.hentai-foundry.com
+162.251.61.54 img.hentai-foundry.com
+162.251.61.54 thumbs.hentai-foundry.com
+162.251.61.54 pictures.hentai-foundry.com
+162.251.61.54 avatars.hentai-foundry.com
+
+#hentaifox.com
+104.25.117.11 hentaifox.com
+104.25.117.11 www.hentaifox.com
+104.25.117.11 i.hentaifox.com
+104.25.117.11 i2.hentaifox.com
+
 #hitomi.la
 88.80.20.11 hitomi.la
 88.80.20.11 www.hitomi.la
@@ -174,6 +201,11 @@
 #imgchili.net
 104.24.113.61 imgchili.net
 104.24.113.61 www.imgchili.net
+
+#jav.guru
+104.25.143.28 jav.guru
+104.25.143.28 www.jav.guru 
+104.25.142.28 static.jav.guru
 
 #javlibrary.com
 104.18.62.228 javlibrary.com
@@ -222,6 +254,10 @@
 185.93.0.18 cdnio.luscious.net
 195.181.162.3 cdnvo.luscious.net
 
+#nekopoi.care
+104.31.66.84 nekopoi.care
+104.31.66.84 www.nekopoi.care
+
 #newgrounds.com
 51.79.77.157 newgrounds.com
 51.79.77.157 www.newgrounds.com
@@ -266,8 +302,14 @@
 13.226.182.4 www.redgifs.com
 
 #rule34.xxx
-178.21.23.134 rule34.xxx
-178.21.23.134 www.rule34.xxx
+104.25.223.113 rule34.xxx
+104.25.223.113 www.rule34.xxx
+104.25.223.113 hk.rule34.xxx
+104.25.223.113 img.rule34.xxx
+185.180.221.231 webmc.rule34.xxx
+89.233.106.186 webm.rule34.xxx
+209.58.190.226 hkwebm.rule34.xxx
+190.2.148.183 wwebm.rule34.xxx
 
 #sankakucomplex.com
 208.100.24.252 sankakucomplex.com
@@ -311,6 +353,10 @@
 209.133.194.84 thumbs2.sexysims2.com
 209.133.194.86 files.sexysims2.com
 
+#simply-hentai.com
+104.26.12.155 simply-hentai.com
+104.26.12.155 www.simply-hentai.com
+
 #tsumino.com
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
@@ -340,6 +386,10 @@
 8.240.44.251 static-l3.xvideos-cdn.com
 209.197.3.84 static-hw.xvideos-cdn.com
 178.79.244.53 porn1-im-7688ec00-10333156-hlsinths.x.xvideos.com
+
+#vporn.com
+204.155.151.81 vporn.com
+204.155.151.81 www.vporn.com
 
 #yande.re
 188.165.205.120 yande.re
