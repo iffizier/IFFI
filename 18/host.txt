@@ -291,6 +291,7 @@
 #pornhub.com
 31.192.120.36 pornhub.com
 31.192.120.36 www.pornhub.com
+66.24.114.58 cpe-66-24-114-58.stny.res.rr.com
 
 #pururin.io
 104.27.174.71 pururin.io
