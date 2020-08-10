@@ -128,6 +128,7 @@
 104.28.9.124 i2.freeanimehentai.net
 104.28.24.161 search.htv-services.com
 104.28.24.161 uploader.htv-services.com
+172.64.167.6 v.hanime.tv
 
 #hentai2read.com
 104.24.16.12 hentai2read.com
