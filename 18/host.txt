@@ -129,6 +129,8 @@
 104.28.24.161 search.htv-services.com
 104.28.24.161 uploader.htv-services.com
 172.64.167.6 v.hanime.tv
+172.64.167.6 hw.hanime.tv
+172.64.167.6 hr.hanime.tv
 
 #hentai2read.com
 104.24.16.12 hentai2read.com
