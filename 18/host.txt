@@ -1,6 +1,7 @@
 #8muses.com
 104.25.51.19 8muses.com
 104.25.51.19 www.8muses.com
+104.31.2.155 comics.8muses.com
 
 #adultdeepfakes.com
 5.45.78.44 adultdeepfakes.com
