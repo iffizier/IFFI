@@ -173,29 +173,18 @@
 104.25.117.11 i2.hentaifox.com
 
 #hitomi.la
-88.80.20.11 hitomi.la
-88.80.20.11 www.hitomi.la
+78.142.29.56 hitomi.la
+78.142.29.56 www.hitomi.la
 79.124.59.206 hitomi.la
-79.124.59.206 www.hitomi.la
-185.145.129.33 hitomi.la
-185.145.129.33 www.hitomi.la
-185.145.131.184 hitomi.la
-185.145.131.184 www.hitomi.la
 23.237.36.202 a.hitomi.la
-192.240.120.10 a.hitomi.la
 23.237.36.202 aa.hitomi.la
-23.237.36.202 atn.hitomi.la
-192.240.120.10 atn.hitomi.la
+23.237.107.210 atn.hitomi.la
 23.237.36.202 ba.hitomi.la
 23.237.36.202 btn.hitomi.la
-192.240.120.10 btn.hitomi.la
 23.237.36.202 la.hitomi.la
 23.237.36.202 ltn.hitomi.la
-192.240.120.10 ltn.hitomi.la
 23.237.36.202 streaming.hitomi.la
-192.240.120.10 streaming.hitomi.la
 23.237.36.202 tn.hitomi.la
-192.240.120.10 tn.hitomi.la
 
 #imagefap.com
 109.201.130.57 imagefap.com
