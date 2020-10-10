@@ -172,6 +172,11 @@
 104.25.117.11 i.hentaifox.com
 104.25.117.11 i2.hentaifox.com
 
+#hentainexus.com
+104.31.73.80 hentainexus.com
+104.31.73.80 www.hentainexus.com
+104.31.73.80 images.hentainexus.com
+
 #hitomi.la
 78.142.29.56 hitomi.la
 78.142.29.56 www.hitomi.la
@@ -181,6 +186,10 @@
 23.237.107.210 atn.hitomi.la
 23.237.36.202 ba.hitomi.la
 23.237.36.202 btn.hitomi.la
+23.237.107.210 ca.hitomi.la
+23.237.107.210 ctn.hitomi.la
+23.237.107.210 g.hitomi.la
+23.237.107.210 hf2.hitomi.la
 23.237.36.202 la.hitomi.la
 23.237.36.202 ltn.hitomi.la
 23.237.36.202 streaming.hitomi.la
