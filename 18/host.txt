@@ -139,6 +139,10 @@
 172.64.167.6 hw.hanime.tv
 172.64.167.6 hr.hanime.tv
 
+#hbrowse.com
+104.27.158.24 hbrowse.com
+104.27.158.24 www.hbrowse.com
+
 #hentai2read.com
 104.24.16.12 hentai2read.com
 104.24.16.12 www.hentai2read.com
@@ -295,6 +299,10 @@
 104.25.113.17 img-7.poringa.net
 104.25.113.17 img-8.poringa.net
 104.25.113.17 static.poringa.net
+
+#porncomixonline.net
+104.26.0.93 porncomixonline.net
+104.26.0.93 www.porncomixonline.net
 
 #pornhub.com
 31.192.120.36 pornhub.com
