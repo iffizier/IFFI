@@ -3,7 +3,10 @@ Internet Freedom For Indonesia
 
 Bypass situs yang diblokir dengan mengubah host file (host situs [18+](https://raw.githubusercontent.com/palmsugar26/IFFI/master/18/host.txt))
 
-Adaway support
+Adaway supported
+
+# Installation Wiki
+[wiki](https://github.com/iffizier/IFFI/wiki)
 
 # Additional
 1. [ISP Annoyance](https://raw.githubusercontent.com/palmsugar26/IFFI/master/ISPAnnoyance/host.txt), blok iklan inject telkomsel, mercusuar, dll.
