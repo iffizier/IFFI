@@ -69,6 +69,12 @@
 184.168.221.18 doujin-moe.us
 184.168.221.18 www.doujin-moe.us
 
+#doujins.com
+185.72.157.185 doujins.com
+185.72.157.185 www.doujins.com
+185.72.157.188 static.doujins.com
+206.190.134.44 hentai0.com
+
 #e-hentai.org
 104.24.255.11 e-hentai.org
 104.24.255.11 www.e-hentai.org
@@ -191,9 +197,9 @@
 23.237.107.210 g.hitomi.la
 192.240.120.10 hf2.hitomi.la
 23.237.36.202 la.hitomi.la
-23.237.36.202 ltn.hitomi.la
-23.237.36.202 streaming.hitomi.la
-23.237.36.202 tn.hitomi.la
+192.240.120.10 ltn.hitomi.la
+23.237.107.210 streaming.hitomi.la
+192.240.120.10 tn.hitomi.la
 
 #imagefap.com
 109.201.130.57 imagefap.com
@@ -362,6 +368,10 @@
 #simply-hentai.com
 104.26.12.155 simply-hentai.com
 104.26.12.155 www.simply-hentai.com
+
+#sxyprn.com
+172.64.207.7 sxyprn.com
+172.64.207.7 www.sxyprn.com
 
 #tsumino.com
 104.27.163.237 tsumino.com
