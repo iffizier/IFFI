@@ -146,14 +146,9 @@
 #hentai2read.com
 104.24.16.12 hentai2read.com
 104.24.16.12 www.hentai2read.com
-104.24.17.12 hentai2read.com
-104.24.17.12 www.hentai2read.com
 104.24.16.12 i1.hentai2read.com
-104.24.17.12 i1.hentai2read.com
 104.24.16.12 i2.hentai2read.com
-104.24.17.12 i2.hentai2read.com
 104.24.16.12 i3.hentai2read.com
-104.24.17.12 i3.hentai2read.com
 
 #hentai.cafe
 104.25.23.115 hentai.cafe
@@ -332,37 +327,26 @@
 
 #sankakucomplex.com
 208.100.24.252 sankakucomplex.com
-104.25.220.15 sankakucomplex.com
 208.100.24.252 www.sankakucomplex.com
-104.25.220.15 www.sankakucomplex.com
+208.100.24.254 beta.sankakucomplex.com
+208.100.24.254 capi-v2.sankakucomplex.com
 208.100.27.32 chan.sankakucomplex.com
-104.25.220.15 chan.sankakucomplex.com
 208.100.27.32 idol.sankakucomplex.com
-104.25.221.15 idol.sankakucomplex.com
 208.100.47.78 images.sankakucomplex.com
-104.25.221.15 images.sankakucomplex.com
 208.100.47.75 data.sankakucomplex.com
 208.100.24.251 a.sankakucomplex.com
 208.100.24.246 c.sankakucomplex.com
-104.25.220.15 c.sankakucomplex.com
-208.100.24.254 cs.sankakucomplex.com
-104.25.221.15 cs.sankakucomplex.com
 208.100.47.75 charts.sankakucomplex.com
+208.100.24.254 cs.sankakucomplex.com
 208.100.47.75 extra.sankakucomplex.com
 208.100.24.246 i.sankakucomplex.com
-104.25.221.15 i.sankakucomplex.com
 208.100.47.78 img.sankakucomplex.com
-104.25.221.15 img.sankakucomplex.com
-104.25.221.15 img1.sankakucomplex.com
 208.100.47.78 img2.sankakucomplex.com
-104.25.221.15 img2.sankakucomplex.com
 208.100.47.78 img3.sankakucomplex.com
-104.25.221.15 img3.sankakucomplex.com
 208.100.47.78 img4.sankakucomplex.com
 208.100.24.254 is.sankakucomplex.com
 104.25.221.15 is.sankakucomplex.com
-208.100.24.254 beta.sankakucomplex.com
-208.100.24.254 capi-v2.sankakucomplex.com
+208.100.24.254 s.sankakucomplex.com
 
 #savido.net
 216.189.151.222 savido.net
