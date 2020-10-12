@@ -6,15 +6,14 @@
 #adultdeepfakes.com
 5.45.78.44 adultdeepfakes.com
 5.45.78.44 www.adultdeepfakes.com
+5.45.79.248 api.adultdeepfakes.com
+5.45.78.44 mail.adultdeepfakes.com
 5.45.78.44 ns1.adultdeepfakes.com
 5.45.78.44 ns2.adultdeepfakes.com
-5.45.78.44 mail.adultdeepfakes.com
-5.45.79.248 api.adultdeepfakes.com
 
 #akiba-online.com
 89.248.169.70 akiba-online.com
 89.248.169.70 www.akiba-online.com
-89.233.106.186 img.rule34.xxx
 
 #anime-sharing.com
 104.25.23.115 anime-sharing.com
@@ -45,24 +44,24 @@
 #dlsite.com
 52.192.120.153 dlsite.com
 151.101.2.217 www.dlsite.com
-151.101.2.217 ssl.dlsite.com
-54.238.167.141 it.dlsite.com
 52.193.53.138 blog.dlsite.com
+54.249.59.55 ch.dlsite.com
+54.238.167.141 it.dlsite.com
 52.199.95.20 login.dlsite.com
 52.197.33.8 play.dlsite.com
-54.249.59.55 ch.dlsite.com
+151.101.2.217 ssl.dlsite.com
 163.171.129.140 trial.dlsite.com
 
 #donmai.us
 104.20.134.45 donmai.us
 104.20.134.45 www.donmai.us
 104.20.134.45 danbooru.donmai.us
+147.135.4.93 kagamihara.donmai.us
 104.20.135.45 raikou1.donmai.us
 104.20.134.45 raikou2.donmai.us
 104.20.134.45 raikou3.donmai.us
 104.20.134.45 raikou4.donmai.us
 104.20.134.45 safebooru.donmai.us
-147.135.4.93 kagamihara.donmai.us
 147.135.10.29 shima.donmai.us
 
 #doujin-moe.us
@@ -78,12 +77,12 @@
 #e-hentai.org
 104.24.255.11 e-hentai.org
 104.24.255.11 www.e-hentai.org
-94.100.18.243 forums.e-hentai.org
-94.100.24.81 upload.e-hentai.org
-104.237.196.116 g.e-hentai.org
 81.171.20.5 api.e-hentai.org
-104.20.135.21 r.e-hentai.org
+94.100.18.243 forums.e-hentai.org
+104.237.196.116 g.e-hentai.org
 104.20.135.21 lofi.e-hentai.org
+104.20.135.21 r.e-hentai.org
+94.100.24.81 upload.e-hentai.org
 
 #erogedownload.com
 104.28.15.98 erogedownload.com
@@ -98,8 +97,8 @@
 #fakku.net
 104.20.208.29 fakku.net
 104.20.208.29 www.fakku.net
-104.20.208.29 t.fakku.net
 23.227.38.64 store.fakku.net
+104.20.208.29 t.fakku.net
 
 #gelbooru.com
 67.202.114.141 gelbooru.com
@@ -120,24 +119,24 @@
 #hanime.tv
 104.24.30.59 hanime.tv
 104.24.30.59 www.hanime.tv
-104.24.30.59 uploads.hanime.tv
 104.24.30.59 ark.hanime.tv
 104.24.30.59 cdn.hanime.tv
-104.24.30.59 search.hanime.tv
-104.24.30.59 oberon.hanime.tv
-104.24.30.59 m.hanime.tv
-104.24.30.59 tapi.hanime.tv
 104.24.30.59 htv3.hanime.tv
+172.64.167.6 hr.hanime.tv
+172.64.167.6 hw.hanime.tv
+104.24.30.59 m.hanime.tv
 104.24.30.59 members.hanime.tv
+104.24.30.59 oberon.hanime.tv
 151.101.65.195 player.hanime.tv
-104.28.8.205 search.freeanimehentai.net
+104.24.30.59 search.hanime.tv
+104.24.30.59 tapi.hanime.tv
+104.24.30.59 uploads.hanime.tv
+172.64.167.6 v.hanime.tv
 104.28.8.124 cdn.freeanimehentai.net
 104.28.9.124 i2.freeanimehentai.net
+104.28.8.205 search.freeanimehentai.net
 104.28.24.161 search.htv-services.com
 104.28.24.161 uploader.htv-services.com
-172.64.167.6 v.hanime.tv
-172.64.167.6 hw.hanime.tv
-172.64.167.6 hr.hanime.tv
 
 #hbrowse.com
 104.27.158.24 hbrowse.com
@@ -165,11 +164,11 @@
 #hentai-foundry.com
 142.44.146.192 www.hentai-foundry.com
 142.44.146.192 hentai-foundry.com
+162.251.61.54 avatars.hentai-foundry.com
 142.44.146.192 forums.hentai-foundry.com
 162.251.61.54 img.hentai-foundry.com
-162.251.61.54 thumbs.hentai-foundry.com
 162.251.61.54 pictures.hentai-foundry.com
-162.251.61.54 avatars.hentai-foundry.com
+162.251.61.54 thumbs.hentai-foundry.com
 
 #hentaifox.com
 104.25.117.11 hentaifox.com
@@ -253,12 +252,12 @@
 #luscious.net
 185.93.1.7 luscious.net
 185.93.1.7 www.luscious.net
-104.25.247.113 members.luscious.net
 185.93.0.18 assets.luscious.net
 185.152.66.6 cdna.luscious.net
 185.152.66.6 cdni.luscious.net
 185.93.0.18 cdnio.luscious.net
 195.181.162.3 cdnvo.luscious.net
+104.25.247.113 members.luscious.net
 
 #nekopoi.care
 104.31.66.84 nekopoi.care
@@ -271,9 +270,9 @@
 #nhentai.net
 104.31.81.98 nhentai.net
 104.31.81.98 www.nhentai.net
+185.165.243.200 i.nhentai.net
 141.101.120.54 static.nhentai.net
 185.165.243.200 t.nhentai.net
-185.165.243.200 i.nhentai.net
 185.165.243.200 webseed.nhentai.net
 
 #nyaa.si
@@ -303,10 +302,10 @@
 #pornhub.com
 31.192.120.36 pornhub.com
 31.192.120.36 www.pornhub.com
-66.24.114.58 cpe-66-24-114-58.stny.res.rr.com
-66.254.114.41 mobile.pornhub.com
-66.254.114.41 m.pornhub.com
 66.254.114.41 api.pornhub.com
+66.254.114.41 m.pornhub.com
+66.254.114.41 mobile.pornhub.com
+66.24.114.58 cpe-66-24-114-58.stny.res.rr.com
 
 #pururin.io
 104.27.174.71 pururin.io
@@ -321,27 +320,27 @@
 104.25.223.113 rule34.xxx
 104.25.223.113 www.rule34.xxx
 104.25.223.113 hk.rule34.xxx
-104.25.223.113 img.rule34.xxx
-185.180.221.231 webmc.rule34.xxx
-89.233.106.186 webm.rule34.xxx
 209.58.190.226 hkwebm.rule34.xxx
+104.25.223.113 img.rule34.xxx
+89.233.106.186 webm.rule34.xxx
+185.180.221.231 webmc.rule34.xxx
 190.2.148.183 wwebm.rule34.xxx
 
 #sankakucomplex.com
 208.100.24.252 sankakucomplex.com
 208.100.24.252 www.sankakucomplex.com
+208.100.24.251 a.sankakucomplex.com
 208.100.24.254 beta.sankakucomplex.com
+208.100.24.246 c.sankakucomplex.com
 208.100.24.254 capi-v2.sankakucomplex.com
 208.100.27.32 chan.sankakucomplex.com
-208.100.27.32 idol.sankakucomplex.com
-208.100.47.78 images.sankakucomplex.com
-208.100.47.75 data.sankakucomplex.com
-208.100.24.251 a.sankakucomplex.com
-208.100.24.246 c.sankakucomplex.com
 208.100.47.75 charts.sankakucomplex.com
 208.100.24.254 cs.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com
 208.100.47.75 extra.sankakucomplex.com
 208.100.24.246 i.sankakucomplex.com
+208.100.27.32 idol.sankakucomplex.com
+208.100.47.78 images.sankakucomplex.com
 208.100.47.78 img.sankakucomplex.com
 208.100.47.78 img2.sankakucomplex.com
 208.100.47.78 img3.sankakucomplex.com
@@ -358,8 +357,8 @@
 #sexysims2.com
 66.165.248.91 sexysims2.com
 66.165.248.91 www.sexysims2.com
-209.133.194.84 thumbs2.sexysims2.com
 209.133.194.86 files.sexysims2.com
+209.133.194.84 thumbs2.sexysims2.com
 
 #simply-hentai.com
 104.26.12.155 simply-hentai.com
@@ -405,5 +404,5 @@
 
 #yande.re
 188.165.205.120 yande.re
-51.77.247.63 files.yande.re
 188.165.205.120 assets.yande.re
+51.77.247.63 files.yande.re
