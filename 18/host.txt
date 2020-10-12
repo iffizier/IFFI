@@ -280,9 +280,11 @@
 185.221.200.12 sukebei.nyaa.si
 
 #paheal.net
-104.200.22.130 rule34.paheal.net
 208.97.151.195 paheal.net
+208.97.151.195 www.paheal.net
+95.211.180.149 acacia.paheal.net
 95.211.136.161 olive.paheal.net
+217.79.242.18 rule34.paheal.net
 
 #poringa.com
 104.25.113.17 poringa.net
@@ -346,6 +348,7 @@
 208.100.47.78 img4.sankakucomplex.com
 208.100.24.254 is.sankakucomplex.com
 104.25.221.15 is.sankakucomplex.com
+208.100.24.254 login.sankakucomplex.com
 208.100.24.254 s.sankakucomplex.com
 
 #savido.net
@@ -353,6 +356,8 @@
 216.189.151.222 www.savido.net
 
 #sexysims2.com
+66.165.248.91 sexysims2.com
+66.165.248.91 www.sexysims2.com
 209.133.194.84 thumbs2.sexysims2.com
 209.133.194.86 files.sexysims2.com
 
