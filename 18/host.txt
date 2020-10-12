@@ -109,6 +109,7 @@
 #gifsauce.com
 104.27.190.253 gifsauce.com
 104.27.190.253 www.gifsauce.com
+217.182.195.16 api.gifsauce.com
 104.27.190.253 i.gifsauce.com
 
 #gojav.xyz
