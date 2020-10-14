@@ -403,6 +403,8 @@
 8.240.44.251 static-l3.xvideos-cdn.com
 209.197.3.84 static-hw.xvideos-cdn.com
 178.79.244.53 porn1-im-7688ec00-10333156-hlsinths.x.xvideos.com
+89.187.187.17 cdn77-pic.xvideos-cdn.com
+89.187.187.3 cdn77-vid.xvideos-cdn.com
 
 #vporn.com
 204.155.151.81 vporn.com
