@@ -254,6 +254,9 @@
 #loverslab.com
 104.25.90.15 loverslab.com
 104.25.90.15 www.loverslab.com
+104.26.0.96 cdn.loverslab.com
+104.26.0.96 static.loverslab.com
+
 
 #luscious.net
 185.93.1.7 luscious.net
