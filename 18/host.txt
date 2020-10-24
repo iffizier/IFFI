@@ -286,7 +286,7 @@
 185.165.243.200 webseed.nhentai.net
 
 #nyaa.si
-185.221.200.12 sukebei.nyaa.si
+198.251.89.38 sukebei.nyaa.si
 
 #paheal.net
 208.97.151.195 paheal.net
