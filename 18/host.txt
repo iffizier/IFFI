@@ -55,7 +55,9 @@
 #donmai.us
 104.20.134.45 donmai.us
 104.20.134.45 www.donmai.us
+172.67.70.99 cdn.donmai.us
 104.20.134.45 danbooru.donmai.us
+45.79.98.156 isshiki.donmai.us
 147.135.4.93 kagamihara.donmai.us
 104.20.135.45 raikou1.donmai.us
 104.20.134.45 raikou2.donmai.us
@@ -293,7 +295,7 @@
 208.97.151.195 www.paheal.net
 95.211.180.149 acacia.paheal.net
 95.211.136.161 olive.paheal.net
-217.79.242.18 rule34.paheal.net
+217.79.242.19 rule34.paheal.net
 
 #poringa.com
 104.25.113.17 poringa.net
