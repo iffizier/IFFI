@@ -105,6 +105,7 @@
 #gelbooru.com
 67.202.114.141 gelbooru.com
 67.202.114.141 www.gelbooru.com
+104.21.233.230 img1.gelbooru.com
 212.8.240.5 img2.gelbooru.com
 212.8.240.5 simg3.gelbooru.com
 
