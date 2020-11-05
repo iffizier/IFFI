@@ -272,6 +272,11 @@
 195.181.162.3 cdnvo.luscious.net
 104.25.247.113 members.luscious.net
 
+#namethatporn.com
+65.60.58.36 namethatporn.com
+65.60.58.36 www.namethatporn.com
+151.139.128.11 static.namethatporn.com
+
 #nekopoi.care
 104.31.66.84 nekopoi.care
 104.31.66.84 www.nekopoi.care
