@@ -1,3 +1,10 @@
+#turn off google safe search
+0.0.0.0 forcesafesearch.google.com
+216.58.211.3 google.com
+216.58.211.3 www.google.com
+216.58.211.3 google.co.id
+216.58.211.3 www.google.co.id
+
 #8muses.com
 104.25.51.19 8muses.com
 104.25.51.19 www.8muses.com
@@ -108,6 +115,7 @@
 104.21.233.230 img1.gelbooru.com
 212.8.240.5 img2.gelbooru.com
 212.8.240.5 simg3.gelbooru.com
+104.21.233.235 thumbs.gelbooru.com
 
 #gifsauce.com
 104.27.190.253 gifsauce.com
