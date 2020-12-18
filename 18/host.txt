@@ -102,6 +102,9 @@
 104.25.114.103 www.f95zone.to
 104.25.114.103 attachments.f95zone.to
 104.25.114.103 static.f95zone.to
+104.25.114.103 f95zone.com
+104.25.114.103 www.f95zone.com
+104.25.114.103 attachments.f95zone.com
 
 #fakku.net
 104.20.208.29 fakku.net
