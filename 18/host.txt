@@ -60,9 +60,9 @@
 163.171.129.140 trial.dlsite.com
 
 #dmm.co.jp
-dmm.co.jp 13.248.196.236
-www.dmm.co.jp 13.248.196.236
-pics.dmm.co.jp 202.6.247.39
+13.248.196.236 dmm.co.jp
+13.248.196.236 www.dmm.co.jp
+202.6.247.39 pics.dmm.co.jp
 
 #donmai.us
 104.20.134.45 donmai.us
@@ -330,10 +330,11 @@ pics.dmm.co.jp 202.6.247.39
 104.25.113.17 static.poringa.net
 
 #porn-gravure-idol.com
-porn-gravure-idol.com 172.67.191.160
-www.porn-gravure-idol.com 172.67.191.160
-ja.porn-gravure-idol.com 172.67.191.160
-id.porn-gravure-idol.com 172.67.191.160
+172.67.191.160 porn-gravure-idol.com
+172.67.191.160 www.porn-gravure-idol.com
+172.67.191.160 id.porn-gravure-idol.com
+172.67.191.160 ja.porn-gravure-idol.com
+172.67.191.160 vi.porn-gravure-idol.com
 
 #porncomixonline.net
 104.26.0.93 porncomixonline.net
