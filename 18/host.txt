@@ -48,6 +48,10 @@
 104.25.59.110 cosplayjav.pl
 104.25.59.110 www.cosplayjav.pl
 
+#digoyang.com
+172.67.202.71 digoyang.com
+172.67.202.71 www.digoyang.com
+
 #dlsite.com
 52.192.120.153 dlsite.com
 151.101.2.217 www.dlsite.com
@@ -116,6 +120,10 @@
 104.20.208.29 www.fakku.net
 23.227.38.64 store.fakku.net
 104.20.208.29 t.fakku.net
+
+#foto2bokephot.win
+173.208.216.250 foto2bokephot.win
+173.208.216.250 www.foto2bokephot.win
 
 #gelbooru.com
 67.202.114.141 gelbooru.com
@@ -444,6 +452,16 @@
 #vporn.com
 204.155.151.81 vporn.com
 204.155.151.81 www.vporn.com
+
+#xnxx.com
+141.0.173.174 multi.xnxx.com
+185.88.181.60 account.xnxx.com
+141.0.173.91 games.xnxx.com
+185.88.181.58 www.xnxx.com
+185.88.181.50 forum.xnxx.com
+185.88.181.58 xnxx.com
+141.0.172.211 stories.xnxx.com
+205.185.208.154 s9v7j7a4.ssl.hwcdn.net
 
 #yande.re
 188.165.205.120 yande.re
