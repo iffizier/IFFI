@@ -10,7 +10,7 @@ Adaway supported
 
 # Additional
 1. [ISP Annoyance](https://raw.githubusercontent.com/iffizier/IFFI/master/ISPAnnoyance/host.txt), blok iklan inject telkomsel, mercusuar, dll.
-2. [Disable Windows Telemetry](https://github.com/iffizier/IFFI/raw/master/DisableMicrosoftTelemetry/host.txt), Note: Whitelist your host file/turn off the Windows Defender, or else your host file will be "cleaned"/
+2. [Disable Windows Telemetry](https://github.com/iffizier/IFFI/raw/master/DisableMicrosoftTelemetry/host.txt), Note: Whitelist your host file/turn off the Windows Defender, or else your host file will be "cleaned".
 
 # Other Useful Host Sources
 1. [bebasid](https://github.com/bebasid/bebasid), bypass situs yang diblokir
