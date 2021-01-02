@@ -240,6 +240,10 @@
 104.24.113.61 imgchili.net
 104.24.113.61 www.imgchili.net
 
+#javgiga.com
+104.31.65.24 javgiga.com
+104.31.65.24 www.javgiga.com
+
 #jav.guru
 104.25.143.28 jav.guru
 104.25.143.28 www.jav.guru 
