@@ -462,12 +462,12 @@
 204.155.151.81 www.vporn.com
 
 #xnxx.com
-141.0.173.174 multi.xnxx.com
-185.88.181.60 account.xnxx.com
-141.0.173.91 games.xnxx.com
-185.88.181.58 www.xnxx.com
-185.88.181.50 forum.xnxx.com
 185.88.181.58 xnxx.com
+185.88.181.58 www.xnxx.com
+185.88.181.60 account.xnxx.com
+185.88.181.50 forum.xnxx.com
+141.0.173.91 games.xnxx.com
+141.0.173.174 multi.xnxx.com
 141.0.172.211 stories.xnxx.com
 205.185.208.154 s9v7j7a4.ssl.hwcdn.net
 
