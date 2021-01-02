@@ -227,6 +227,10 @@
 23.237.107.210 streaming.hitomi.la
 192.240.120.10 tn.hitomi.la
 
+#illusion.jp
+59.106.213.32 illusion.jp
+59.106.213.32 www.illusion.jp
+
 #imagefap.com
 109.201.130.57 imagefap.com
 109.201.130.57 www.imagefap.com
