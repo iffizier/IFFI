@@ -9,7 +9,7 @@ Adaway supported
 [wiki](https://github.com/iffizier/IFFI/wiki)
 
 # Additional
-1. [ISP Annoyance](https://raw.githubusercontent.com/iffizier/IFFI/master/ISPAnnoyance/host.txt), blok iklan inject telkomsel, mercusuar, dll.
+1. [ISP Annoyance](https://raw.githubusercontent.com/iffizier/IFFI/master/ISPAnnoyance/host.txt), block telkomsel ads, mercusuar, dll.
 2. [Disable Windows Telemetry](https://github.com/iffizier/IFFI/raw/master/DisableMicrosoftTelemetry/host.txt), Note: Whitelist your host file/turn off the Windows Defender, or else your host file will be "cleaned".
 
 # Other Useful Host Sources
