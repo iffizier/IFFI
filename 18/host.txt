@@ -320,10 +320,10 @@
 #nhentai.net
 104.31.81.98 nhentai.net
 104.31.81.98 www.nhentai.net
-185.165.243.200 i.nhentai.net
+185.177.127.78 i.nhentai.net
 141.101.120.54 static.nhentai.net
-185.165.243.200 t.nhentai.net
-185.165.243.200 webseed.nhentai.net
+185.177.127.78 t.nhentai.net
+185.177.127.78 webseed.nhentai.net
 
 #nyaa.si
 198.251.89.38 sukebei.nyaa.si
