@@ -152,11 +152,6 @@
 217.182.195.16 api.gifsauce.com
 104.27.190.253 i.gifsauce.com
 
-#gojav.xyz
-104.31.79.158 gojav.xyz
-104.31.79.158 www.gojav.xyz
-104.27.129.45 open.gojav.xyz
-
 #hanime.tv
 104.24.30.59 hanime.tv
 104.24.30.59 www.hanime.tv
