@@ -248,6 +248,11 @@
 104.24.113.61 imgchili.net
 104.24.113.61 www.imgchili.net
 
+#imhentai.com
+104.27.207.92 imhentai.com
+104.27.207.92 www.imhentai.com
+104.27.207.92 m5.imhentai.com
+
 #javgiga.com
 104.31.65.24 javgiga.com
 104.31.65.24 www.javgiga.com
@@ -371,6 +376,9 @@
 #pornhub.com
 31.192.120.36 pornhub.com
 31.192.120.36 www.pornhub.com
+31.192.120.36 de.pornhub.com
+31.192.120.36 es.pornhub.com
+31.192.120.36 fr.pornhub.com
 66.254.114.41 api.pornhub.com
 66.254.114.41 m.pornhub.com
 66.254.114.41 mobile.pornhub.com
