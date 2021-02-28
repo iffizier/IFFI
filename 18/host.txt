@@ -449,6 +449,10 @@
 172.64.207.7 sxyprn.com
 172.64.207.7 www.sxyprn.com
 
+#sxyprn.com
+172.64.207.7 sxyprn.net
+172.64.207.7 www.sxyprn.net
+
 #tsumino.com
 104.27.163.237 tsumino.com
 104.27.163.237 www.tsumino.com
