@@ -342,6 +342,10 @@
 185.177.127.78 t.nhentai.net
 185.177.127.78 webseed.nhentai.net
 
+#noodlemagazine.com
+31.10.5.94 noodlemagazine.com
+31.10.5.94 www.noodlemagazine.com
+
 #nyaa.si
 198.251.89.38 sukebei.nyaa.si
 
@@ -458,10 +462,13 @@
 104.27.163.237 www.tsumino.com
 104.27.163.237 content.tsumino.com
 
+#ukdevilz.com
+31.210.171.71 ukdevilz.com
+31.210.171.71 www.ukdevilz.com
+
 #ultra4kporn.com
 209.239.174.180 ultra4kporn.com
 209.239.174.180 www.ultra4kporn.com
-
 64.210.147.100 cdn.ultra4kporn.com
 
 #xvideos.com
