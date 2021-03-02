@@ -131,10 +131,6 @@
 151.101.36.193 store.imgur.com
 151.101.36.193 i.imgur.com
 
-#subscene.com
-104.27.207.92 subscene.com
-104.27.207.92 www.subscene.com
-
 #Mangasites
 185.4.227.114 mangahere.com
 185.4.227.114 www.mangahere.com
@@ -143,6 +139,14 @@
 104.27.65.116 mangakakalot.com
 104.27.65.116 www.mangakakalot.com
 104.28.18.80 mangaku.web.id
+
+#oploverz.in
+104.21.84.181 oploverz.in
+104.21.84.181 www.oploverz.in
+
+#subscene.com
+104.27.207.92 subscene.com
+104.27.207.92 www.subscene.com
 
 #Yify
 104.31.16.3 yts.ag
