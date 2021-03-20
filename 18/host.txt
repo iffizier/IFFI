@@ -249,10 +249,9 @@
 104.24.113.61 www.imgchili.net
 
 #imhentai.com
-104.27.207.92 imhentai.com
-104.27.207.92 www.imhentai.com
-104.27.207.92 m5.imhentai.com
-
+172.67.219.250 imhentai.xxx
+172.67.219.250 www.imhentai.xxx
+172.67.219.250 m5.imhentai.xxx
 #javgiga.com
 104.31.65.24 javgiga.com
 104.31.65.24 www.javgiga.com
