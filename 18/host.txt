@@ -5,6 +5,10 @@
 216.58.211.3 google.co.id
 216.58.211.3 www.google.co.id
 
+#3xplanet.com
+172.67.129.5 3xplanet.com
+172.67.129.5 www.3xplanet.com
+
 #8muses.com
 104.25.51.19 8muses.com
 104.25.51.19 www.8muses.com
@@ -391,6 +395,12 @@
 104.27.174.71 pururin.io
 104.27.174.71 www.pururin.io
 104.24.18.118 cdn.pururin.io
+
+#r18.com
+202.6.246.238 r18.com
+202.6.246.238 www.r18.com
+18.182.116.184 news.r18.com
+52.84.161.58 pics.r18.com
 
 #r34anim.com
 67.205.57.218 r34anim.com
