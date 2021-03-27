@@ -52,6 +52,10 @@
 104.25.59.110 cosplayjav.pl
 104.25.59.110 www.cosplayjav.pl
 
+#crot.in
+104.21.49.86 crot.in
+104.21.49.86 www.crot.in
+
 #digoyang.com
 172.67.202.71 digoyang.com
 172.67.202.71 www.digoyang.com
