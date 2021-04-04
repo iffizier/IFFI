@@ -8,6 +8,8 @@
 #3xplanet.com
 172.67.129.5 3xplanet.com
 172.67.129.5 www.3xplanet.com
+172.67.129.5 3xplanet.net
+172.67.129.5 www.3xplanet.net
 
 #8muses.com
 104.25.51.19 8muses.com
@@ -171,11 +173,14 @@
 104.24.30.59 m.hanime.tv
 104.24.30.59 members.hanime.tv
 104.24.30.59 oberon.hanime.tv
-151.101.65.195 player.hanime.tv
+172.64.167.6 player.hanime.tv
+172.64.167.6 player2.hanime.tv
+172.64.167.6 player3.hanime.tv
 104.24.30.59 search.hanime.tv
 104.24.30.59 tapi.hanime.tv
 104.24.30.59 uploads.hanime.tv
 172.64.167.6 v.hanime.tv
+172.64.167.6 weeb.hanime.tv
 104.28.8.124 cdn.freeanimehentai.net
 104.28.9.124 i2.freeanimehentai.net
 104.28.8.205 search.freeanimehentai.net
@@ -192,11 +197,6 @@
 104.24.16.12 i1.hentai2read.com
 104.24.16.12 i2.hentai2read.com
 104.24.16.12 i3.hentai2read.com
-
-#hentai.cafe
-104.25.23.115 hentai.cafe
-104.25.24.115 cdn.hentai.cafe
-198.16.106.42 hh.cx
 
 #hentai-cosplay.com
 104.24.126.173 hentai-cosplay.com
