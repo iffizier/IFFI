@@ -140,10 +140,6 @@
 104.27.65.116 www.mangakakalot.com
 104.28.18.80 mangaku.web.id
 
-#oploverz.in
-104.21.84.181 oploverz.in
-104.21.84.181 www.oploverz.in
-
 #subscene.com
 104.27.207.92 subscene.com
 104.27.207.92 www.subscene.com
