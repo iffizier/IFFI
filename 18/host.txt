@@ -35,9 +35,9 @@
 104.26.10.3 wiki.anime-sharing.com
 
 #asmhentai
-104.31.86.132 asmhentai.com
-104.31.86.132 www.asmhentai.com
-104.31.86.132 images.asmhentai.com
+104.21.235.119 asmhentai.com
+104.21.235.119 www.asmhentai.com
+104.21.235.119 images.asmhentai.com
 
 #babefilter.net
 158.69.116.55 babefilter.net
@@ -342,8 +342,8 @@
 51.79.77.157 www.newgrounds.com
 
 #nhentai.net
-104.31.81.98 nhentai.net
-104.31.81.98 www.nhentai.net
+104.27.194.88 nhentai.net
+104.27.194.88 www.nhentai.net
 185.177.127.78 i.nhentai.net
 141.101.120.54 static.nhentai.net
 185.177.127.78 t.nhentai.net
