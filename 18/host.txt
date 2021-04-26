@@ -260,9 +260,10 @@
 172.67.219.250 imhentai.xxx
 172.67.219.250 www.imhentai.xxx
 172.67.219.250 m5.imhentai.xxx
+
 #javgiga.com
-104.31.65.24 javgiga.com
-104.31.65.24 www.javgiga.com
+172.67.222.216 javgiga.com
+172.67.222.216 www.javgiga.com
 
 #jav.guru
 104.25.143.28 jav.guru
@@ -471,9 +472,9 @@
 172.64.207.7 www.sxyprn.net
 
 #tsumino.com
-104.27.163.237 tsumino.com
-104.27.163.237 www.tsumino.com
-104.27.163.237 content.tsumino.com
+104.21.235.215 tsumino.com
+104.21.235.215 www.tsumino.com
+104.21.235.215 content.tsumino.com
 
 #ukdevilz.com
 31.210.171.71 ukdevilz.com
