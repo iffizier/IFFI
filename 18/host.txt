@@ -46,6 +46,7 @@
 #cfake
 64.237.54.186 cfake.com
 64.237.54.186 www.cfake.com
+64.237.54.186 m.cfake.com
 
 #cosplay.jav.pw
 104.28.26.38 cosplay.jav.pw
@@ -184,8 +185,8 @@
 104.28.8.124 cdn.freeanimehentai.net
 104.28.9.124 i2.freeanimehentai.net
 104.28.8.205 search.freeanimehentai.net
-104.28.24.161 search.htv-services.com
-104.28.24.161 uploader.htv-services.com
+172.67.145.184 search.htv-services.com
+172.67.145.184 uploader.htv-services.com
 
 #hbrowse.com
 104.27.158.24 hbrowse.com
