@@ -319,16 +319,19 @@
 104.26.0.96 cdn.loverslab.com
 104.26.0.96 static.loverslab.com
 
-
 #luscious.net
-185.93.1.7 luscious.net
-185.93.1.7 www.luscious.net
-185.93.0.18 assets.luscious.net
-185.152.66.6 cdna.luscious.net
-185.152.66.6 cdni.luscious.net
-185.93.0.18 cdnio.luscious.net
-195.181.162.3 cdnvo.luscious.net
+172.67.70.144 luscious.net
+172.67.70.144 www.luscious.net
+156.146.36.23 api.luscious.net
+89.187.187.20 assets.luscious.net
+89.187.187.14 cdna.luscious.net
+89.187.187.14 cdni.luscious.net
+195.181.169.22 cdnio.luscious.net
+89.187.187.1 cdnvo.luscious.net
 104.25.247.113 members.luscious.net
+89.187.187.14 w315.luscious.net
+89.187.187.12 w640.luscious.net
+89.187.177.16 w1680.luscious.net
 
 #namethatporn.com
 65.60.58.36 namethatporn.com
