@@ -230,14 +230,17 @@
 78.142.29.56 hitomi.la
 78.142.29.56 www.hitomi.la
 23.237.107.210 a.hitomi.la
-23.237.107.210 aa.hitomi.la
-23.237.107.212 ab.hitomi.la
-23.237.107.210 atn.hitomi.la
-23.237.36.202 ba.hitomi.la
-23.237.36.202 btn.hitomi.la
-192.240.120.10 ca.hitomi.la
+23.237.54.194 aa.hitomi.la
+23.237.54.194 ab.hitomi.la
+23.237.54.194 atn.hitomi.la
+192.240.120.10 ba.hitomi.la
+192.240.120.10 bb.hitomi.la
+192.240.120.10 btn.hitomi.la
+23.237.107.210 ca.hitomi.la
+23.237.107.210 cb.hitomi.la
 192.240.120.10 ctn.hitomi.la
 23.237.107.210 g.hitomi.la
+23.237.54.194 hf1.hitomi.la
 192.240.120.10 hf2.hitomi.la
 23.237.36.202 la.hitomi.la
 192.240.120.10 ltn.hitomi.la
@@ -452,6 +455,7 @@
 104.25.221.15 is.sankakucomplex.com
 208.100.24.254 login.sankakucomplex.com
 208.100.24.254 s.sankakucomplex.com
+89.187.185.87 v.sankakucomplex.com
 
 #savido.net
 216.189.151.222 savido.net
