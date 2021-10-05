@@ -355,6 +355,8 @@
 185.177.127.78 i.nhentai.net
 141.101.120.54 static.nhentai.net
 185.177.127.78 t.nhentai.net
+23.237.126.122 t2.nhentai.net
+185.177.127.77 t5.nhentai.net
 185.177.127.78 webseed.nhentai.net
 
 #noodlemagazine.com
