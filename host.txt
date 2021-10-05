@@ -144,6 +144,16 @@
 104.27.207.92 subscene.com
 104.27.207.92 www.subscene.com
 
+#streamable.com
+151.101.1.63 streamable.com
+151.101.1.63 www.streamable.com
+54.164.232.140 ajax.streamable.com
+18.213.183.96 api.streamable.com
+13.33.81.5 cdn-cf-east.streamable.com
+143.204.198.4 images.streamable.com
+18.233.127.134 socket.streamable.com
+185.93.1.242 statics.streamable.com
+
 #Yify
 104.31.16.3 yts.ag
 104.31.16.3 yts.am
