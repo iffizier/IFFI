@@ -235,7 +235,7 @@
 23.237.54.194 atn.hitomi.la
 192.240.120.10 ba.hitomi.la
 192.240.120.10 bb.hitomi.la
-192.240.120.10 btn.hitomi.la
+23.237.107.210 btn.hitomi.la
 23.237.107.210 ca.hitomi.la
 23.237.107.210 cb.hitomi.la
 192.240.120.10 ctn.hitomi.la
@@ -243,9 +243,9 @@
 23.237.54.194 hf1.hitomi.la
 192.240.120.10 hf2.hitomi.la
 23.237.36.202 la.hitomi.la
-192.240.120.10 ltn.hitomi.la
+23.237.107.210 ltn.hitomi.la
 23.237.107.210 streaming.hitomi.la
-192.240.120.10 tn.hitomi.la
+23.237.54.194 tn.hitomi.la
 
 #illusion.jp
 59.106.213.32 illusion.jp
