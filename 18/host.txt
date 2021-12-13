@@ -233,8 +233,8 @@
 23.237.54.194 aa.hitomi.la
 23.237.54.194 ab.hitomi.la
 23.237.54.194 atn.hitomi.la
-192.240.120.10 ba.hitomi.la
-192.240.120.10 bb.hitomi.la
+23.237.107.210 ba.hitomi.la
+23.237.107.210 bb.hitomi.la
 23.237.107.210 btn.hitomi.la
 23.237.107.210 ca.hitomi.la
 23.237.107.210 cb.hitomi.la
