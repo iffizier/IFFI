@@ -158,10 +158,10 @@
 192.151.155.238 p.ggrti.net
 
 #gifsauce.com
-104.27.190.253 gifsauce.com
-104.27.190.253 www.gifsauce.com
+178.33.233.202 gifsauce.com
+178.33.233.202 www.gifsauce.com
 217.182.195.16 api.gifsauce.com
-104.27.190.253 i.gifsauce.com
+62.210.87.59 i.gifsauce.com
 
 #hanime.tv
 104.24.30.59 hanime.tv
