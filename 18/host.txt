@@ -353,6 +353,10 @@
 51.79.77.157 newgrounds.com
 51.79.77.157 www.newgrounds.com
 
+#nhentai.io
+172.67.148.18 nhentai.io
+172.67.148.18 www.nhentai.io
+
 #nhentai.net
 104.27.194.88 nhentai.net
 104.27.194.88 www.nhentai.net
