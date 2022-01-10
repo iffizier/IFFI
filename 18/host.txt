@@ -430,8 +430,10 @@
 67.205.57.218 www.r34anim.com
 
 #redgifs.com
-13.226.182.4 redgifs.com
-13.226.182.4 www.redgifs.com
+104.18.5.207 redgifs.com
+104.18.5.207 www.redgifs.com
+104.18.4.207 api.redgifs.com
+104.18.5.207 thumbs2.redgifs.com
 
 #rule34.xxx
 104.25.223.113 rule34.xxx
