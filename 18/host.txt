@@ -922,6 +922,6 @@
 205.185.208.154 s9v7j7a4.ssl.hwcdn.net
 
 #yande.re
-188.165.205.120 yande.re
-188.165.205.120 assets.yande.re
-51.77.247.63 files.yande.re
+198.98.54.92 yande.re
+198.98.54.92 assets.yande.re
+198.98.54.92 files.yande.re
