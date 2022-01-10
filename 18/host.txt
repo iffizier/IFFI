@@ -221,6 +221,10 @@
 104.25.117.11 i.hentaifox.com
 104.25.117.11 i2.hentaifox.com
 
+#hentaihaven.xxx
+172.64.205.18 hentaihaven.xxx
+172.64.205.18 www.hentaihaven.xxx
+
 #hentainexus.com
 104.31.73.80 hentainexus.com
 104.31.73.80 www.hentainexus.com
