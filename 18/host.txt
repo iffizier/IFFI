@@ -271,10 +271,10 @@
 172.67.219.250 www.imhentai.xxx
 172.67.219.250 m5.imhentai.xxx
 
-#javhd.icu
-104.21.80.205 javhd.icu
-104.21.80.205 www.javhd.icu
-104.21.94.219 javfreehd.icu
+#javgg.net
+172.67.73.143 javgg.net
+172.67.73.143 www.javgg.net
+148.72.153.73 x2sfa.javgg.eu
 
 #javgiga.com
 172.67.222.216 javgiga.com
@@ -285,6 +285,11 @@
 104.25.143.28 www.jav.guru 
 104.25.142.28 static.jav.guru
 172.67.134.127 cdn.javsts.com
+
+#javgg.net
+172.67.73.143 javgg.net
+172.67.73.143 www.javgg.net
+148.72.153.73 x2sfa.javgg.eu
 
 #javlibrary.com
 104.18.62.228 javlibrary.com
@@ -381,6 +386,7 @@
 #noodlemagazine.com
 31.10.5.94 noodlemagazine.com
 31.10.5.94 www.noodlemagazine.com
+185.73.220.212 adult.noodlemagazine.com
 
 #nyaa.si
 198.251.89.38 sukebei.nyaa.si
