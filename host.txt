@@ -117,6 +117,7 @@
 151.101.1.140 252fwww.reddit.com
 151.101.53.140 www.redditstatic.com
 151.101.53.140 i.redd.it
+199.232.145.140 snoovatar.reddit.com
 
 #Imgur
 151.101.60.193 imgur.com
@@ -158,6 +159,7 @@
 104.31.16.3 yts.ag
 104.31.16.3 yts.am
 104.27.216.4 yts.lt
+104.31.16.9 yts.mx
 109.236.84.193 img.yts.ag
 109.236.84.193 img.yts.am
 109.236.84.193 img.yts.lt
