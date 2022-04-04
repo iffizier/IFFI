@@ -233,8 +233,8 @@
 104.31.73.80 images.hentainexus.com
 
 #hitomi.la
-78.142.29.56 hitomi.la
-78.142.29.56 www.hitomi.la
+185.165.169.231 hitomi.la
+185.165.169.231 www.hitomi.la
 23.237.107.210 a.hitomi.la
 23.237.54.194 aa.hitomi.la
 23.237.54.194 ab.hitomi.la
