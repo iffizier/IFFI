@@ -412,7 +412,9 @@
 208.97.151.195 paheal.net
 208.97.151.195 www.paheal.net
 95.211.180.149 acacia.paheal.net
+217.79.242.26 lotus.paheal.net
 95.211.136.161 olive.paheal.net
+217.79.242.34 peach.paheal.net
 217.79.242.19 rule34.paheal.net
 
 #poringa.com
