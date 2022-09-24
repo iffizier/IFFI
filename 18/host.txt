@@ -393,7 +393,7 @@
 104.27.194.88 nhentai.net
 104.27.194.88 www.nhentai.net
 185.177.127.78 i.nhentai.net
-141.101.120.54 static.nhentai.net
+172.67.159.231 static.nhentai.net
 185.177.127.78 t.nhentai.net
 23.237.126.122 t2.nhentai.net
 185.177.127.77 t5.nhentai.net
