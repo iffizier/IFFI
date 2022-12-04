@@ -256,6 +256,7 @@
 109.236.84.193 img.yts.ag
 109.236.84.193 img.yts.am
 109.236.84.193 img.yts.lt
+104.31.16.120 img.yts.mx
 104.24.8.103 www.yifysubtitles.com
 104.24.8.103 yifysubtitles.com
 
