@@ -87,7 +87,7 @@
 3.208.46.58 rhs.reddit.com
 151.101.1.140 ro.reddit.com
 151.101.1.140 rseor3.reddit.com
-151.101.53.140 s.reddit.com
+151.101.21.140 s.reddit.com
 151.101.1.140 se.reddit.com
 151.101.1.140 security.reddit.com
 151.101.1.140 sendbird.reddit.com
