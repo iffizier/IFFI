@@ -51,8 +51,8 @@
 54.85.103.55 gql-realtime.reddit.com
 151.101.1.140 h.reddit.com
 151.101.1.140 habs.reddit.com
-151.101.53.140 i.redd.it
-151.101.1.140 i.reddit.com
+151.101.21.140 i.redd.it
+151.101.21.140 i.reddit.com
 151.101.1.140 imagur.reddit.com
 151.101.1.140 initref.reddit.com
 151.101.1.140 ja.reddit.com
