@@ -45,7 +45,7 @@
 146.75.41.140 external-preview.redd.it
 151.101.1.140 fn.reddit.com
 151.101.1.140 fr.reddit.com
-151.101.1.140 gateway.reddit.com
+146.75.41.140 gateway.reddit.com
 151.101.1.140 gg.reddit.com
 146.75.41.140 gql.reddit.com
 54.85.103.55 gql-realtime.reddit.com
