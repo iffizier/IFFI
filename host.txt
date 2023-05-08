@@ -73,6 +73,7 @@
 146.75.41.140 oauth.reddit.com
 151.101.1.140 ol.reddit.com
 151.101.1.140 old.reddit.com
+174.129.99.65 oops.redditmedia.com
 151.101.1.140 origin.reddit.com
 151.101.1.140 out.reddit.com
 151.101.129.140 pay.reddit.com
