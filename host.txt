@@ -9,11 +9,12 @@
 151.101.201.140 accounts.reddit.com
 151.101.1.140 acer.reddit.com
 151.101.1.140 ads.reddit.com
-151.101.21.140 alb.reddit.com
+146.75.41.140 alb.reddit.com
 151.101.1.140 amp.reddit.com
 151.101.1.140 api.reddit.com
 151.101.1.140 as.reddit.com
 151.101.1.140 auth.reddit.com
+151.101.21.140 b.thumbs.redditmedia.com
 151.101.1.140 beta.reddit.com
 151.101.1.140 bettertouchtool.reddit.com
 151.101.1.140 bitfinex.reddit.com
@@ -80,7 +81,7 @@
 151.101.1.140 pectiv.reddit.com
 151.101.1.140 pepetraders.reddit.com
 151.101.1.140 pixel.reddit.com
-151.101.189.140 preview.redd.it
+151.101.21.140 preview.redd.it
 151.101.1.140 ps.reddit.com
 151.101.1.140 pt.reddit.com
 151.101.1.140 rabt.reddit.com
@@ -103,7 +104,7 @@
 151.101.1.140 st.reddit.com
 151.101.1.140 static.reddit.com
 151.101.1.140 strapi.reddit.com
-151.101.69.140 styles.redditmedia.com
+151.101.21.140 styles.redditmedia.com
 151.101.129.140 test.reddit.com
 151.101.1.140 thumbs.reddit.com
 151.101.1.140 token.reddit.com
