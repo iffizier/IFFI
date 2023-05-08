@@ -84,6 +84,8 @@
 151.101.1.140 pt.reddit.com
 151.101.1.140 rabt.reddit.com
 151.101.1.140 rapi.reddit.com
+146.75.41.140 redditstatic.com
+146.75.41.140 www.redditstatic.com
 3.208.46.58 rhs.reddit.com
 151.101.1.140 ro.reddit.com
 151.101.1.140 rseor3.reddit.com
