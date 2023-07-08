@@ -223,6 +223,10 @@
 104.27.65.116 www.mangakakalot.com
 104.28.18.80 mangaku.web.id
 
+#nyaa.si
+185.178.208.182 nyaa.si
+185.178.208.182 www.nyaa.si
+
 #steam
 104.97.41.71 store.steampowered.com
 69.192.195.13 steamcommunity.com
