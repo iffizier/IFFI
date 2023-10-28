@@ -227,38 +227,6 @@
 185.178.208.182 nyaa.si
 185.178.208.182 www.nyaa.si
 
-#steam
-104.97.41.71 store.steampowered.com
-69.192.195.13 steamcommunity.com
-104.71.229.53 steam-chat.com
-69.192.195.13 api.steampowered.com
-69.192.195.13 help.steampowered.com
-103.10.124.162 cm1-sgp1.cm.steampowered.com
-103.10.124.163 cm2-sgp1.cm.steampowered.com
-103.10.124.165 cm4-sgp1.cm.steampowered.com
-103.10.124.121 cm6-sgp1.cm.steampowered.com
-23.53.122.74 avatars.akamai.steamstatic.com
-23.53.122.83 cdn.akamai.steamstatic.com
-23.53.122.90 community.akamai.steamstatic.com
-23.53.122.84 store.akamai.steamstatic.com
-104.18.37.23 cdn.cloudflare.steamstatic.com
-104.18.37.23 community.cloudflare.steamstatic.com
-104.18.37.23 store.cloudflare.steamstatic.com
-
-#subscene.com
-104.27.207.92 subscene.com
-104.27.207.92 www.subscene.com
-
-#streamable.com
-151.101.1.63 streamable.com
-151.101.1.63 www.streamable.com
-54.164.232.140 ajax.streamable.com
-18.213.183.96 api.streamable.com
-13.33.81.5 cdn-cf-east.streamable.com
-143.204.198.4 images.streamable.com
-18.233.127.134 socket.streamable.com
-185.93.1.242 statics.streamable.com
-
 #Yify
 104.31.16.3 yts.ag
 104.31.16.3 yts.am
