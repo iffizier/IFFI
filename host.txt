@@ -54,7 +54,9 @@
 146.75.41.140 gateway.reddit.com
 151.101.1.140 gg.reddit.com
 146.75.41.140 gql.reddit.com
+151.101.21.140 gql-fed.reddit.com
 34.196.205.230 gql-realtime.reddit.com
+34.203.169.234 gql-realtime-2.reddit.com
 151.101.1.140 h.reddit.com
 151.101.1.140 habs.reddit.com
 151.101.21.140 i.redd.it
