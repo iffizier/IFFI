@@ -34,6 +34,7 @@
 151.101.1.140 dc.reddit.com
 151.101.1.140 dd.reddit.com
 151.101.1.140 de.reddit.com
+146.75.41.140 devvit-gateway.reddit.com
 151.101.1.140 diaperedhentai.reddit.com
 151.101.1.140 digg.comold.reddit.com
 151.101.1.140 digg.comwww.reddit.com
