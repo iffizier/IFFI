@@ -2,6 +2,14 @@
 45.154.253.151 anonfiles.com
 45.154.253.151 www.anonfiles.com
 
+#mangadex.org
+45.129.229.1 mangadex.org
+45.129.229.1 www.mangadex.org
+45.129.229.1 auth.mangadex.org
+45.129.229.1 api.mangadex.org
+45.129.229.1 forums.mangadex.org
+45.129.229.1 uploads.mangadex.org
+
 #reddit.com
 151.101.193.140 reddit.com
 151.101.129.140 www.reddit.com
