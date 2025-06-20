@@ -7,7 +7,7 @@
 45.129.229.1 uploads.mangadex.org
 
 #reddit.com
-151.101.193.140 reddit.com
+151.101.129.140 reddit.com
 151.101.129.140 www.reddit.com
 151.101.1.140 2fold.reddit.com
 151.101.1.140 2fout.reddit.com
