@@ -135,7 +135,7 @@
 151.101.21.140 v.redd.it
 151.101.1.140 v2.reddit.com
 151.101.1.140 v21.reddit.com
-151.101.21.140 w3-reporting.reddit.com
+151.101.65.140 w3-reporting.reddit.com
 151.101.129.140 ww.reddit.com
 151.101.21.140 www.redditstatic.com
 151.101.1.140 xa.reddit.com
