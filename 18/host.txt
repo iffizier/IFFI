@@ -1,9 +1,9 @@
 #turn off google safe search
 0.0.0.0 forcesafesearch.google.com
-216.58.211.3 google.com
-216.58.211.3 www.google.com
-216.58.211.3 google.co.id
-216.58.211.3 www.google.co.id
+142.250.4.113 google.com
+142.250.4.113 www.google.com
+142.250.4.113 google.co.id
+142.250.4.113 www.google.co.id
 127.0.0.1 forcesafesearch.google.com
 127.0.0.1 restrict.youtube.com
 
