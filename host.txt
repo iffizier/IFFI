@@ -1,3 +1,12 @@
+#turn off google safe search
+0.0.0.0 forcesafesearch.google.com
+142.250.4.113 google.com
+142.250.4.113 www.google.com
+142.250.4.113 google.co.id
+142.250.4.113 www.google.co.id
+127.0.0.1 forcesafesearch.google.com
+127.0.0.1 restrict.youtube.com
+
 #mangadex.org
 45.129.229.1 mangadex.org
 45.129.229.1 www.mangadex.org
