@@ -124,7 +124,7 @@
 151.101.1.140 st.reddit.com
 151.101.1.140 static.reddit.com
 151.101.1.140 strapi.reddit.com
-151.101.21.140 styles.redditmedia.com
+151.101.193.140 styles.redditmedia.com
 151.101.129.140 test.reddit.com
 151.101.1.140 thumbs.reddit.com
 151.101.1.140 token.reddit.com
